@@ -1,15 +1,15 @@
 body{
-	background:rgb(135, 206, 235);
+	background-color:rgb(135, 206, 235);
 }
 p:first-child{
 	background:black;
 	color:white;
 }
 p:last-child{
-	color:red;
+	color:rgb(255, 0, 0);
 }
 li:nth-child(1){
-	background:white;
+	background:rgb(255, 255, 255);
 }
 li:nth-child(2){
 	background:gray;
@@ -21,5 +21,5 @@ li:nth-child(4){
 	background:gray;
 }
 li:nth-child(5){
-	background:white;
+	background:rgb(255, 255, 255);
 }
