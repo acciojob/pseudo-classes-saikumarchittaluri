@@ -1,1 +1,25 @@
-/*  your css code here. If applicable */
+body{
+	background:skyblue;
+}
+.FIRST{
+	background:black;
+	color:white;
+}
+.last{
+	color:red;
+}
+.firstitem{
+	background:white;
+}
+.secounditem{
+	background:gray;
+}
+.thireditem{
+	background:pink;
+}
+.fourthitem{
+	background:gray;
+}
+.fifthitem{
+	background:white;
+}
