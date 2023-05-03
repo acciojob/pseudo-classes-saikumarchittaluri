@@ -5,9 +5,9 @@ p:first-child{
 	background:black;
 	color:white;
 }
-p:last-child{
-	color:rgb(255, 0, 0);
-}
+ .LAST{
+	 color:red;
+ }
 li:nth-child(1){
 	background:rgb(255, 255, 255);
 }
